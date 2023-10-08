@@ -6,7 +6,10 @@ authors = ["bucky <buckyroberts@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.10"
+openai = "^0.28.1"
+promptlayer = "^0.3.3"
+langchain = "^0.0.310"
 
 [build-system]
 requires = ["poetry-core"]
