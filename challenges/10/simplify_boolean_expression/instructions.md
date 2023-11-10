@@ -1,1 +1,0 @@
-Simplify the boolean expression.

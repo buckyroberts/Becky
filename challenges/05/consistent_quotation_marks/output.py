@@ -1,2 +1,0 @@
-greeting = "Hello"
-farewell = "Goodbye"
